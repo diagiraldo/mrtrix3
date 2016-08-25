@@ -94,7 +94,7 @@ compiled on another system.
        mv Python-3.5.2/ python3/
        cd python3/
        ./configure
-       ./make
+       make
        cd ../
 
 -  Installing Eigen3
